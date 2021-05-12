@@ -13,7 +13,7 @@
     "d3": "^3.5.17",
     "function-plot": "^1.19.1",
     "gordan": "^0.1.6",
-    "mathjs": "^6.6.0",
+    "mathjs": "^7.5.1",
     "react": "^16.12.0",
     "react-bootstrap": "^1.0.0-beta.16",
     "react-dom": "^16.13.1",
